@@ -1,0 +1,70 @@
+[33mcommit c94fc7fb10e6ecd8e452a9862b157de5cc80f0bf[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/kar/feature1[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 835ffb9 8c7f3be
+Author: karthikeyan <karthikeyan4595@gmail.com>
+Date:   Thu Jun 24 16:51:41 2021 +0530
+
+    Merge pull request #1 from karthikeyan4595/kar/feature1
+    
+    new text file
+
+[33mcommit 8c7f3bed098e34fe7fe1bba23456812528fed53d[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Thu Jun 24 11:20:30 2021 +0000
+
+    new text file
+
+[33mcommit 835ffb9b18eef2b7b481991767ff4e8821c29f99[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Thu Jun 24 11:07:08 2021 +0000
+
+    new file added
+
+[33mcommit 1f0392c294c11e5493b425101173c7c09bb5ef50[m[33m ([m[1;31morigin/kar/feature3[m[33m, [m[1;31morigin/kar/feature2[m[33m, [m[1;32mkar/feature2[m[33m)[m
+Merge: 0820048 9302ec9
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 12:17:56 2021 +0000
+
+    merged files
+    Merge branch 'feature1' into main
+
+[33mcommit 9302ec90c2409c834f1bd39e738ace452318ca61[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 12:16:46 2021 +0000
+
+    Read.md deleted from feature1
+
+[33mcommit 0820048f24ab279daa455a1ad7903d60dc76491b[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 12:13:41 2021 +0000
+
+    third.html deleted
+
+[33mcommit b8d8924cae4c0b8f10c10ab2df4769c57a4a4caf[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 12:10:27 2021 +0000
+
+    new file
+
+[33mcommit 531508e0747dec2ed7f581552302abfb15c4cb93[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 12:05:52 2021 +0000
+
+    Read.md deleted
+
+[33mcommit cca593f70f7381f6ee144a2ecf6496a3ba578a06[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 11:37:56 2021 +0000
+
+    second file
+
+[33mcommit b6ea8f43b1dd2e7eaf425aef1606c482e2f09138[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Wed Jun 23 10:45:10 2021 +0000
+
+    file updated
+
+[33mcommit f22e21acac55d007c37f634286c92e520e2b122f[m
+Author: Karthikeyan <karthikeyan4595@gmail.com>
+Date:   Tue Jun 22 11:42:08 2021 +0000
+
+    first commit
